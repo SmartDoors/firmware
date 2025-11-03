@@ -1,6 +1,6 @@
 # SmartDoors Firmware Repository
 
-ESP32 기반 자동문 제어 시스템 펌웨어 OTA 업데이트용 저장소입니다.
+SmartDoors 자동문 제어 시스템 펌웨어 OTA 업데이트용 저장소입니다.
 
 ## 📦 Releases
 
@@ -10,8 +10,8 @@ ESP32 기반 자동문 제어 시스템 펌웨어 OTA 업데이트용 저장소�
 
 ### 자동 업데이트 (권장)
 
-1. ESP32 웹 브라우저에서 `http://<ESP32-IP>/update` 접속
-2. 로그인 (admin/admin123)
+1. 스마트도어즈 웹 브라우저에서 `http://<도어-IP>/update` 접속
+2. 로그인
 3. GitHub 버전 체크에서 최신 버전 확인
 4. "📥 최신 버전 자동 다운로드 및 업데이트" 버튼 클릭
 5. 자동으로 다운로드, 업로드, 재시작 완료
