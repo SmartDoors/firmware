@@ -39,7 +39,7 @@ WebServer 통합
 - **Firmware Version:** 1.2.0
 - **Hardware:** BOARD_LMC_REV_4
 - **Chip:** ESP32-S3
-- **Build Date:** 2025-11-03
+- **Build Date:** 2025-11-18
 
 ## 설치 방법
 
