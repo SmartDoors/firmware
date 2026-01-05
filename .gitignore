@@ -1,0 +1,7 @@
+# 바이너리 파일은 GitHub Release Assets로만 관리
+*.bin
+
+# 임시 파일
+*.tmp
+*.log
+
