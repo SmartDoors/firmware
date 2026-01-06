@@ -16,9 +16,9 @@
 
 ---
 
-# Release v1.3.0
+# Release v1.2.0
 
-**Build Date:** 2026-01-06
+**Build Date:** 2025-12-06
 
 ## 변경 사항
 
