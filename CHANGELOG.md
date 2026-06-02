@@ -1,4 +1,4 @@
-# Release v1.7.4
+# Release v1.7.3
 
 **Build Date:** 2026-06-02
 
