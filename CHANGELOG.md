@@ -1,6 +1,6 @@
 # Release v1.7.3
 
-**Build Date:** 2026-06-24
+**Build Date:** 2026-06-25
 
 ## 변경 사항
 
