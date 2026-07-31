@@ -10,17 +10,16 @@ SmartDoors 자동문 제어 시스템 펌웨어 OTA 업데이트용 저장소입
 
 ### 자동 업데이트 (권장)
 
-1. 스마트도어즈 웹 브라우저에서 `http://<도어-IP>/update` 접속
-2. 로그인
-3. GitHub 버전 체크에서 최신 버전 확인
-4. "📥 최신 버전 자동 다운로드 및 업데이트" 버튼 클릭
-5. 자동으로 다운로드, 업로드, 재시작 완료
+1. SmartDoors 앱 또는 웹사이트 `http://<도어-IP>/update` 접속
+2. GitHub 버전 체크에서 최신 버전 확인
+3. 다운로드 및 업데이트 실행
 
 ### 수동 업데이트
 
 1. [Releases](https://github.com/smartdoors/firmware/releases) 페이지에서 `.bin` 파일 다운로드
-2. OTA 업데이트 페이지에서 파일 선택
-3. "🚀 업로드 및 재시작" 버튼 클릭
+2. SmartDoors 앱 또는 웹사이트 `http://<도어-IP>/update` 접속
+3. 수동/복구 업데이트에서 다운로드 받은 파일 선택
+4. 업데이트 실행
 
 ## 📝 저장소 구조
 
@@ -28,7 +27,7 @@ SmartDoors 자동문 제어 시스템 펌웨어 OTA 업데이트용 저장소입
 
 ```
 firmware/
-├── CHANGELOG-v1.3.0.md       # 변경 사항 (Git에 커밋됨)
+├── CHANGELOG-v{version}.md       # 변경 사항 (Git에 커밋됨)
 └── README.md                 # 이 파일 (Git에 커밋됨)
 ```
 
